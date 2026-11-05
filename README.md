@@ -9,7 +9,7 @@
 <p align="center">
   <strong>Biomedical Engineering | Embedded Systems | Signal Processing | Experimental Research</strong>
 </p>
-
+The system uses `ESP32`, `ADXL345`, `TCA9548A`, and `PAM8403`.
 ---
 
 ## 1. Introduction
