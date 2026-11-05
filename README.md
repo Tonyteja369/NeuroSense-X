@@ -25,6 +25,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-black?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Biomedical%20Engineering-purple?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/Tonytej369/Cranial-Mechanical-Resonance-Mapping?style=social)
+![Forks](https://img.shields.io/github/forks/Tonytej369/Cranial-Mechanical-Resonance-Mapping?style=social)
+![Issues](https://img.shields.io/github/issues/Tonytej369/Cranial-Mechanical-Resonance-Mapping)
+![Last Commit](https://img.shields.io/github/last-commit/Tonytej369/Cranial-Mechanical-Resonance-Mapping)
 ## 1. Introduction
 
 Cranial Mechanical Resonance Mapping (CMRM) is an experimental biomedical engineering project designed to investigate mechanical vibration characteristics across multiple locations of a cranial headform.
