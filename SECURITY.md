@@ -1,6 +1,6 @@
 # Security Policy
 
-## Cranial Mechanical Resonance Mapping (CMRM)
+## NEUROSENSEX Cranial Mechanical Resonance Mapping (CMRM)
 
 ### 1. Overview
 
