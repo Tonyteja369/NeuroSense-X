@@ -1,7 +1,3 @@
-# NEUROSENSEX -Cranial Mechanical Resonance Mapping (CMRM) 
-
-### An Embedded Multi-Sensor Platform for Mechanical Vibration Characterization and Frequency-Response Analysis
-<div align="center">
 
 # NEUROSENSE-X
 
@@ -52,19 +48,6 @@
 - PAM8403 amplifier
 - Bone-conduction transducer
 
-</details>
-
-![Project Status](https://img.shields.io/badge/Status-Research%20Prototype-orange?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-0.1.0-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-ESP32-black?style=for-the-badge)
-![Domain](https://img.shields.io/badge/Domain-Biomedical%20Engineering-purple?style=for-the-badge)
-
-![Stars](https://img.shields.io/github/stars/Tonyteja369/NeuroSense-X?style=social)
-![Forks](https://img.shields.io/github/forks/Tonyteja369/NeuroSense-X?style=social)
-![Issues](https://img.shields.io/github/issues/Tonyteja369/NeuroSense-X)
-![Last Commit](https://img.shields.io/github/last-commit/Tonyteja369/NeuroSense-X)
-![License](https://img.shields.io/github/license/Tonyteja369/NeuroSense-X)
 
 
 ## 1. Introduction
