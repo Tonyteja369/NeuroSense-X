@@ -19,8 +19,12 @@
 - Bone-conduction transducer
 
 </details>
----
 
+![Project Status](https://img.shields.io/badge/Status-Research%20Prototype-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-0.1.0-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-ESP32-black?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-Biomedical%20Engineering-purple?style=for-the-badge)
 ## 1. Introduction
 
 Cranial Mechanical Resonance Mapping (CMRM) is an experimental biomedical engineering project designed to investigate mechanical vibration characteristics across multiple locations of a cranial headform.
