@@ -31,6 +31,19 @@
 ![Issues](https://img.shields.io/github/issues/Tonyteja369/NeuroSense-X)
 ![Last Commit](https://img.shields.io/github/last-commit/Tonyteja369/NeuroSense-X)
 ![License](https://img.shields.io/github/license/Tonyteja369/NeuroSense-X)
+
+## Project Documentation
+
+| Document | Description |
+|---|---|
+| [Hardware Design](docs/hardware-design.md) | Hardware architecture |
+| [Signal Processing](docs/signal-processing.md) | Mathematical framework |
+| [Firmware](firmware/README.md) | Embedded development |
+| [Software](software/README.md) | Desktop application |
+| [Datasets](datasets/README.md) | Dataset management |
+| [Research](research/README.md) | Research methodology |
+| [Contributing](CONTRIBUTING.md) | Contribution guidelines |
+| [Security](SECURITY.md) | Security policy |
 ## 1. Introduction
 
 Cranial Mechanical Resonance Mapping (CMRM) is an experimental biomedical engineering project designed to investigate mechanical vibration characteristics across multiple locations of a cranial headform.
