@@ -1,6 +1,40 @@
 # NEUROSENSEX -Cranial Mechanical Resonance Mapping (CMRM) 
 
 ### An Embedded Multi-Sensor Platform for Mechanical Vibration Characterization and Frequency-Response Analysis
+<div align="center">
+
+# NEUROSENSE-X
+
+### Cranial Mechanical Resonance Mapping (CMRM)
+
+**An Embedded Multi-Sensor Platform for Mechanical Vibration Characterization and Frequency-Response Analysis**
+
+<br>
+
+![Research Prototype](https://img.shields.io/badge/STATUS-RESEARCH%20PROTOTYPE-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/VERSION-0.1.0-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge)
+![Platform](https://img.shields.io/badge/PLATFORM-ESP32-black?style=for-the-badge)
+
+<br>
+
+![GitHub Stars](https://img.shields.io/github/stars/Tonyteja369/NeuroSense-X?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Tonyteja369/NeuroSense-X?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/Tonyteja369/NeuroSense-X)
+![Last Commit](https://img.shields.io/github/last-commit/Tonyteja369/NeuroSense-X)
+
+<br>
+
+**Biomedical Engineering · Embedded Systems · Signal Processing · Experimental Research**
+
+<br>
+
+*Conceptualized, founded and led by KATIKIREDDY THARUN*
+
+</div>
+
+---
+
 
 <p align="center">
   <img src="docs/architecture.png" alt="CMRM System Architecture" width="100%">
