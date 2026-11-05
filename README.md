@@ -39,15 +39,6 @@
 <p align="center">
   <strong>Biomedical Engineering | Embedded Systems | Signal Processing | Experimental Research</strong>
 </p>
-<details>
-<summary><strong>View Hardware Specifications</strong></summary>
-
-- ESP32 development board
-- Four ADXL345 accelerometers
-- TCA9548A I2C multiplexer
-- PAM8403 amplifier
-- Bone-conduction transducer
-
 
 
 ## 1. Introduction
