@@ -26,7 +26,45 @@
 <br>
 
 *Conceptualized, founded and led by KATIKIREDDY THARUN*
+## Navigation
 
+| Section | Description |
+|---|---|
+| [Overview](#overview) | Project introduction |
+| [Architecture](#system-architecture) | Hardware and software design |
+| [Research Objectives](#research-objectives) | Research direction |
+| [Hardware](#hardware-architecture) | Embedded components |
+| [Signal Processing](#signal-processing) | Mathematical framework |
+| [MRP](#mechanical-resonance-profile) | Analytical framework |
+| [Roadmap](ROADMAP.md) | Development milestones |
+| [Documentation](#project-documentation) | Technical documents |
+| [Contributing](CONTRIBUTING.md) | Join development |
+
+## Technology Stack
+
+| Category | Technologies |
+|---|---|
+| Embedded Controller | ESP32 |
+| Accelerometer | ADXL345 |
+| Communication | I2C / UART |
+| Multiplexer | TCA9548A |
+| Signal Processing | FFT / Digital Filtering |
+| Excitation | PAM8403 / Bone-Conduction Transducer |
+| Data Analysis | Python / NumPy / SciPy (planned) |
+| Visualization | Desktop Dashboard (planned) |
+
+## Development Progress
+
+| Development Area | Status |
+|---|---|
+| Research Concept | Defined |
+| System Architecture | Documented |
+| Hardware Integration | In Development |
+| ESP32 Firmware | Planned |
+| Multi-Sensor Acquisition | Planned |
+| Signal Processing | Architecture Documented |
+| Desktop Application | Planned |
+| Experimental Validation | Pending |
 </div>
 
 ---
