@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use CMRM in your research, please cite this project."
+title: "NEUROSENSEX -Cranial Mechanical Resonance Mapping (CMRM)"
+type: software
+authors:
+  - family-names: Katikireddy
+    given-names: Tharun
+version: 0.1.0
+date-released: 2026-11-05
+license: MIT
