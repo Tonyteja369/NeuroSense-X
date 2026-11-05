@@ -1,4 +1,4 @@
-# Cranial Mechanical Resonance Mapping (CMRM)
+# NEUROSENSEX -Cranial Mechanical Resonance Mapping (CMRM) 
 
 ### An Embedded Multi-Sensor Platform for Mechanical Vibration Characterization and Frequency-Response Analysis
 
