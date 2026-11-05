@@ -9,7 +9,16 @@
 <p align="center">
   <strong>Biomedical Engineering | Embedded Systems | Signal Processing | Experimental Research</strong>
 </p>
-The system uses `ESP32`, `ADXL345`, `TCA9548A`, and `PAM8403`.
+<details>
+<summary><strong>View Hardware Specifications</strong></summary>
+
+- ESP32 development board
+- Four ADXL345 accelerometers
+- TCA9548A I2C multiplexer
+- PAM8403 amplifier
+- Bone-conduction transducer
+
+</details>
 ---
 
 ## 1. Introduction
